@@ -1,0 +1,12 @@
+Text inside employee file!
+
+q
+
+ls
+
+cat employees.txt
+q/q
+[A[B[B[Bexit
+/exit
+##€>>
+sth new!
